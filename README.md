@@ -21,6 +21,9 @@
 $ yarn install
 ```
 
+# Branching model
+1- Used git flow for git management
+
 # Commit
 1- run `git add .` and then run `npm run commit`
 
