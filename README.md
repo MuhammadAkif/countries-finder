@@ -40,7 +40,7 @@ add config folder and .env in your code manually
 - `yarn test` to run tests.
 - `yarn test -- --coverage` to check code coverage
 # Architectural Overview
-I have tries to use REACT-ATOMIC-ARCHITECTURE.
+I have tries to use REACT-ATOMIC-ARCHITECTURE but it still needs improvements skipped pages for now.
 
  ![Architecture Diagram](static/Archi.png?raw=true "Title")
 
