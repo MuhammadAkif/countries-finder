@@ -13,7 +13,7 @@ const client = new ApolloClient({
 });
 
 const App = () => (
-        <BrowserRouter>
+        <BrowserRouter basename={window.location.pathname || ''}>
             <ApolloProvider client={client}>
                 <Routes />
             </ApolloProvider>
