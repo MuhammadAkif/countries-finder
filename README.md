@@ -1,7 +1,7 @@
 ![NPM](https://img.shields.io/badge/npm-6.13.2-blue.svg)
 
 
-Test
+Testing
 
 # React Countries Finder
 
